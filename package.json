@@ -22,5 +22,10 @@
     "@types/react": "^16.7.18",
     "@types/react-dom": "^16.0.11",
     "typescript": "^3.2.2"
-  }
+  },
+  "description": "Slide Deck Viewer",
+  "main": "index.js",
+  "repository": "https://github.com/LiveFreeAndRoam/grommet-slides.git",
+  "author": "Matt Muggeridge",
+  "license": "MIT"
 }
